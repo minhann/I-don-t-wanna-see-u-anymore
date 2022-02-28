@@ -1,0 +1,1447 @@
+/* Body */
+body{
+ margin-left:300px;
+ margin-right:300px;
+ text-transform:none;
+ font-size:23px;
+}
+*{
+    line-height: 2 !important;
+    word-spacing: .5em;
+    letter-spacing: .15em;
+    color:#ff4901;
+    }
+
+.ash {
+    color: #939598;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    word-spacing: 0.5em
+    }
+.author {
+    color: #ff4901;
+    display: block;
+    font-family: "TradeGothicLTStd";
+    font-size: 1.41667em;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 5em;
+    text-align: center;
+    word-spacing: 0.5em
+    }
+.big {
+    color: #ff4901;
+    font-size: 1.2em;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    word-spacing: 0.5em
+    }
+.box {
+    background-color: #DCDDDE;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 0.1em;
+    border-left-color: black;
+    border-left-style: solid;
+    border-left-width: 0.1em;
+    border-radius: 0.5em;
+    border-right-color: black;
+    border-right-style: solid;
+    border-right-width: 0.1em;
+    border-top-color: black;
+    border-top-style: solid;
+    border-top-width: 0.1em;
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em;
+    word-spacing: 0.5em
+    }
+.box1 {
+    background-color: #FFF;
+    border-bottom-color: #000;
+    border-bottom-style: solid;
+    border-bottom-width: 0.1em;
+    border-left-color: #000;
+    border-left-style: solid;
+    border-left-width: 0.1em;
+    border-radius: 0.5em;
+    border-right-color: #000;
+    border-right-style: solid;
+    border-right-width: 0.1em;
+    border-top-color: #000;
+    border-top-style: solid;
+    border-top-width: 0.1em;
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em;
+    word-spacing: 0.5em
+    }
+.boxtitle-d {
+    color: #ff4901;
+    display: block;
+    font-family: "TradeGothicLTStd";
+    font-size: 1.41667em;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.2em;
+    text-align: left;
+    word-spacing: 0.5em
+    }
+.bq {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.5em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 1em;
+    text-align: justify;
+    word-spacing: 0.5em
+    }
+.calibre {
+    color: #ff4901;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    word-spacing: 0.5em
+    }
+.calibre1 {
+    color: #ff4901;
+    display: block;
+    font-size: 1em;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    word-spacing: 0.5em
+    }
+.calibre2 {
+    color: #ff4901;
+    font-weight: bold;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    word-spacing: 0.5em
+    }
+.calibre3 {
+    color: #ff4901;
+    font-style: italic;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    word-spacing: 0.5em
+    }
+.calibre4 {
+    color: #ff4901;
+    display: block;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    word-spacing: 0.5em
+    }
+.calibre5 {
+    color: #ff4901;
+    font-size: 0.75em;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    word-spacing: 0.5em
+    }
+.calibre6 {
+    color: #000;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    text-decoration: none;
+    word-spacing: 0.5em;
+    word-wrap: break-word
+    }
+.calibre7 {
+    color: #ff4901;
+    height: auto;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    max-height: 99%;
+    max-width: 99%;
+    width: auto;
+    word-spacing: 0.5em
+    }
+.calibre8 {
+    color: #ff4901;
+    display: block;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    word-spacing: 0.5em
+    }
+.calibre9 {
+    color: #ff4901;
+    font-size: 1em;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    word-spacing: 0.5em
+    }
+.calibre10 {
+    color: #ff4901;
+    display: table-column-group;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    word-spacing: 0.5em
+    }
+.calibre11 {
+    color: #ff4901;
+    display: table-column;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    width: 50%;
+    word-spacing: 0.5em
+    }
+.calibre12 {
+    color: #ff4901;
+    display: table-row-group;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    vertical-align: middle;
+    word-spacing: 0.5em
+    }
+.calibre13 {
+    color: #ff4901;
+    display: table-row;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    vertical-align: inherit;
+    word-spacing: 0.5em
+    }
+.calibre14 {
+    color: #ff4901;
+    display: table-column;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    width: 30%;
+    word-spacing: 0.5em
+    }
+.calibre15 {
+    color: #ff4901;
+    display: table-column;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    width: 70%;
+    word-spacing: 0.5em
+    }
+.calibre16 {
+    color: #ff4901;
+    display: block;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    list-style-type: decimal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    word-spacing: 0.5em
+    }
+.calibre17 {
+    color: #ff4901;
+    display: block;
+    font-size: 1.41667em;
+    font-weight: bold;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    word-spacing: 0.5em
+    }
+.calibre18 {
+    color: #ff4901;
+    display: list-item;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    word-spacing: 0.5em
+    }
+.calibre19 {
+    color: #ff4901;
+    display: block;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    list-style-type: decimal;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    word-spacing: 0.5em
+    }
+.caps {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    font-size: 1.125em;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.1em;
+    text-align: justify;
+    word-spacing: 0.5em
+    }
+.capsa {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.1em;
+    text-align: justify;
+    word-spacing: 0.5em
+    }
+.center {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center;
+    word-spacing: 0.5em
+    }
+.codeitalic {
+    color: #ff4901;
+    font-family: "UbuntuMono";
+    font-size: 0.75em;
+    font-style: italic;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    word-spacing: 0.5em
+    }
+.codeitalic1 {
+    color: #ff4901;
+    font-family: "UbuntuMono";
+    font-style: italic;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    word-spacing: 0.5em
+    }
+.codeitalic2 {
+    color: #ff4901;
+    font-family: "UbuntuMono";
+    font-size: 1em;
+    font-style: italic;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    word-spacing: 0.5em
+    }
+.codestrong {
+    color: #ff4901;
+    font-family: "UbuntuMono";
+    font-weight: bold;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    word-spacing: 0.5em
+    }
+.codestrong1 {
+    color: #ff4901;
+    font-family: "UbuntuMono";
+    font-size: 0.75em;
+    font-weight: bold;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    word-spacing: 0.5em
+    }
+.codestrong2 {
+    color: #ff4901;
+    font-family: "UbuntuMono";
+    font-size: 1em;
+    font-weight: bold;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    word-spacing: 0.5em
+    }
+.codestrongitalic {
+    color: #ff4901;
+    font-family: "UbuntuMono";
+    font-style: italic;
+    font-weight: bold;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    word-spacing: 0.5em
+    }
+.copy {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    font-size: 0.75em;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.8em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 3em;
+    word-spacing: 0.5em
+    }
+.copy1 {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    font-size: 0.75em;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.8em;
+    word-spacing: 0.5em
+    }
+.copy2 {
+    color: #ff4901;
+    display: block;
+    font-family: "UbuntuMono";
+    font-size: 0.75em;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.8em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.8em;
+    padding-bottom: 0.5em;
+    padding-left: 0.1em;
+    padding-right: 0.1em;
+    padding-top: 0.5em;
+    text-align: left;
+    word-spacing: 0.5em
+    }
+.cover {
+    color: #ff4901;
+    display: block;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    text-align: center;
+    word-spacing: 0.5em
+    }
+.ded {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 1em;
+    margin-left: 3em;
+    margin-right: 3em;
+    margin-top: 8em;
+    text-align: center;
+    word-spacing: 0.5em
+    }
+.edition {
+    color: #ff4901;
+    display: block;
+    font-family: "TradeGothicLTStd";
+    font-size: 1.83333em;
+    font-weight: bold;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.4em;
+    text-align: center;
+    word-spacing: 0.5em
+    }
+.ent {
+    color: #ff4901;
+    font-family: "ArialUnicodeMS";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    src: url(OEBPS/fonts/ARIALUNI.ttf);
+    word-spacing: 0.5em
+    }
+.f {
+    color: #ff4901;
+    font-size: 0.70833em;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    word-spacing: 0.5em
+    }
+.figcap {
+    color: #ff4901;
+    display: block;
+    font-family: "TradeGothicLTStd";
+    font-size: 0.75em;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.2em;
+    page-break-before: avoid;
+    text-align: left;
+    word-spacing: 0.5em
+    }
+.h {
+    color: #ff4901;
+    display: block;
+    font-family: "TradeGothicLTStd";
+    font-size: 1.66667em;
+    font-weight: bold;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em;
+    text-align: center;
+    word-spacing: 0.5em
+    }
+.h1 {
+    color: #ff4901;
+    display: block;
+    font-family: "TradeGothicLTStd";
+    font-size: 2em;
+    font-weight: bold;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center;
+    word-spacing: 0.5em
+    }
+.h2 {
+    color: #ff4901;
+    display: block;
+    font-family: "TradeGothicLTStd";
+    font-size: 1.41667em;
+    font-weight: bold;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.5em;
+    text-align: left;
+    word-spacing: 0.5em
+    }
+.h2a {
+    color: #ff4901;
+    display: block;
+    font-family: "TradeGothicLTStd";
+    font-size: 1.66667em;
+    font-weight: bold;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em;
+    text-align: left;
+    word-spacing: 0.5em
+    }
+.h2c {
+    color: #ff4901;
+    display: block;
+    font-family: "TradeGothicLTStd";
+    font-size: 1.66667em;
+    font-weight: bold;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em;
+    text-align: center;
+    word-spacing: 0.5em
+    }
+.h3 {
+    color: #ff4901;
+    display: block;
+    font-family: "TradeGothicLTStd";
+    font-size: 1.41667em;
+    font-weight: bold;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: left;
+    word-spacing: 0.5em
+    }
+.h3c {
+    color: #ff4901;
+    display: block;
+    font-family: "TradeGothicLTStd";
+    font-size: 1.41667em;
+    font-weight: bold;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.5em;
+    text-align: center;
+    word-spacing: 0.5em
+    }
+.h4 {
+    color: #ff4901;
+    display: block;
+    font-family: "TradeGothicLTStd";
+    font-size: 1.125em;
+    font-weight: bold;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: left;
+    word-spacing: 0.5em
+    }
+.hang {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.3em;
+    margin-left: 1.5em;
+    margin-right: 0;
+    margin-top: 0.3em;
+    text-align: justify;
+    word-spacing: 0.5em
+    }
+.hangt {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.3em;
+    margin-left: 1.5em;
+    margin-right: 0;
+    margin-top: 0.5em;
+    text-align: justify;
+    word-spacing: 0.5em
+    }
+.image {
+    clear: both;
+    color: #ff4901;
+    display: block;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    max-height: 99%;
+    max-width: 99%;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center;
+    word-spacing: 0.5em
+    }
+.image1 {
+    clear: both;
+    color: #ff4901;
+    display: block;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    max-height: 99%;
+    max-width: 99%;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: left;
+    word-spacing: 0.5em
+    }
+.image2 {
+    clear: both;
+    color: #ff4901;
+    display: block;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    max-height: 99%;
+    max-width: 99%;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: left;
+    word-spacing: 0.5em
+    }
+.imagec {
+    clear: both;
+    color: #ff4901;
+    display: block;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    max-height: 99%;
+    max-width: 99%;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center;
+    word-spacing: 0.5em
+    }
+.indent {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.2em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.2em;
+    text-align: justify;
+    text-indent: 1.3em;
+    word-spacing: 0.5em
+    }
+.indexmain {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.1em;
+    margin-left: 4.3em;
+    margin-right: 0;
+    margin-top: 0.2em;
+    text-align: left;
+    text-indent: -4.3em;
+    word-spacing: 0.5em
+    }
+.indexsub {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.1em;
+    margin-left: 4.5em;
+    margin-right: 0;
+    margin-top: 0.1em;
+    text-align: left;
+    text-indent: -2.8em;
+    word-spacing: 0.5em
+    }
+.indexsubsub {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.1em;
+    margin-left: 4.5em;
+    margin-right: 0;
+    margin-top: 0.1em;
+    text-align: left;
+    text-indent: -1.5em;
+    word-spacing: 0.5em
+    }
+.literal {
+    color: #ff4901;
+    font-family: "UbuntuMono";
+    font-size: 0.75em;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    word-spacing: 0.5em
+    }
+.literal1 {
+    color: #ff4901;
+    font-family: "UbuntuMono";
+    font-size: 1em;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    word-spacing: 0.5em
+    }
+.margin {
+    color: red;
+    display: block;
+    font-family: "UbuntuMono";
+    font-size: 0.75em;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em;
+    text-align: left;
+    word-spacing: 0.5em
+    }
+.middle {
+    color: #ff4901;
+    height: auto;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    max-height: 99%;
+    max-width: 99%;
+    vertical-align: middle;
+    width: auto;
+    word-spacing: 0.5em
+    }
+.noindent {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.2em;
+    text-align: justify;
+    word-spacing: 0.5em
+    }
+.noindent1 {
+    color: #ff4901;
+    display: list-item;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.1em;
+    margin-left: 0;
+    margin-top: 0.2em;
+    text-align: justify;
+    word-spacing: 0.5em
+    }
+.noindent2 {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 4.5em;
+    text-align: justify;
+    word-spacing: 0.5em
+    }
+.noindenta {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2em;
+    text-align: justify;
+    word-spacing: 0.5em
+    }
+.noindentb {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.8em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.2em;
+    text-align: justify;
+    word-spacing: 0.5em
+    }
+.noindentt {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.2em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.6em;
+    text-align: justify;
+    word-spacing: 0.5em
+    }
+.note {
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 0.1em;
+    border-left-color: black;
+    border-left-style: solid;
+    border-left-width: 0.1em;
+    border-right-color: black;
+    border-right-style: solid;
+    border-right-width: 0.1em;
+    border-top-color: black;
+    border-top-style: solid;
+    border-top-width: 0.1em;
+    color: #ff4901;
+    display: block;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-top: 1em;
+    padding-bottom: 0.5em;
+    padding-left: 0;
+    padding-right: 0.5em;
+    padding-top: 0;
+    text-align: left;
+    word-spacing: 0.5em
+    }
+.notea {
+    color: #ff4901;
+    display: block;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-top: 1em;
+    padding-bottom: 0.5em;
+    padding-left: 0;
+    padding-right: 0.5em;
+    padding-top: 0;
+    text-align: left;
+    word-spacing: 0.5em
+    }
+.notep {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.1em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    margin-top: 0.2em;
+    text-align: justify;
+    word-spacing: 0.5em
+    }
+.notepi {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.1em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    margin-top: 0.2em;
+    text-align: justify;
+    text-indent: 1.2em;
+    word-spacing: 0.5em
+    }
+.notes {
+    background-color: #000;
+    color: #FFF;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    padding-bottom: 0.3em;
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+    padding-top: 0.3em;
+    word-spacing: 0.5em
+    }
+.notet {
+    color: #ff4901;
+    display: block;
+    font-family: "TradeGothicLTStd";
+    font-size: 1.125em;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.5em;
+    margin-left: 0.1em;
+    margin-right: 0;
+    margin-top: 0.5em;
+    word-spacing: 0.5em
+    }
+.programs {
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 0.1em;
+    border-top-color: black;
+    border-top-style: solid;
+    border-top-width: 0.1em;
+    color: #ff4901;
+    display: block;
+    font-family: "UbuntuMono";
+    font-size: 0.75em;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.8em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.8em;
+    padding-bottom: 0.5em;
+    padding-left: 0.1em;
+    padding-right: 0.1em;
+    padding-top: 0.5em;
+    text-align: left;
+    word-spacing: 0.5em
+    }
+.pub {
+    color: #ff4901;
+    display: block;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-top: 3em;
+    text-align: center;
+    word-spacing: 0.5em
+    }
+.pub1 {
+    color: #ff4901;
+    display: block;
+    font-family: "TradeGothicLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.8em;
+    text-align: center;
+    word-spacing: 0.5em
+    }
+.quote {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 1em;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 1em;
+    text-align: justify;
+    word-spacing: 0.5em
+    }
+.sidebar {
+    background-color: #E6E7E8;
+    border-bottom-color: #000;
+    border-bottom-style: solid;
+    border-bottom-width: 0.1em;
+    border-left-color: #000;
+    border-left-style: solid;
+    border-left-width: 0.1em;
+    border-radius: 1em;
+    border-right-color: #000;
+    border-right-style: solid;
+    border-right-width: 0.1em;
+    border-top-color: #000;
+    border-top-style: solid;
+    border-top-width: 0.1em;
+    color: #ff4901;
+    display: block;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em;
+    word-spacing: 0.5em
+    }
+.sidebart {
+    color: #ff4901;
+    display: block;
+    font-family: "TradeGothicLTStd";
+    font-size: 1em;
+    font-weight: bold;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.1em;
+    text-align: center;
+    word-spacing: 0.5em
+    }
+.spara {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    font-size: 0.75em;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.3em;
+    text-align: justify;
+    word-spacing: 0.5em
+    }
+.sparai {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    font-size: 0.75em;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.3em;
+    text-align: justify;
+    text-indent: 1.2em;
+    word-spacing: 0.5em
+    }
+.sparal {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    font-size: 0.75em;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.8em;
+    text-align: justify;
+    word-spacing: 0.5em
+    }
+.subtitle {
+    color: #ff4901;
+    display: block;
+    font-family: "TradeGothicLTStd";
+    font-size: 1.41667em;
+    font-weight: bold;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.4em;
+    text-align: center;
+    word-spacing: 0.5em
+    }
+.tab_th {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.1em;
+    text-align: left;
+    text-indent: 0;
+    word-spacing: 0.5em
+    }
+.taba {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.2em;
+    text-align: left;
+    word-spacing: 0.5em
+    }
+.tabcap {
+    color: #ff4901;
+    display: block;
+    font-family: "TradeGothicLTStd";
+    font-size: 0.75em;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.4em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    page-break-before: avoid;
+    text-align: left;
+    word-spacing: 0.5em
+    }
+.table-b {
+    background-color: #FFF;
+    border-bottom-color: #000;
+    border-bottom-style: solid;
+    border-bottom-width: 0;
+    color: #ff4901;
+    display: table-cell;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.1em;
+    margin-left: 0;
+    margin-top: 0.1em;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    text-align: inherit;
+    vertical-align: top;
+    word-spacing: 0.5em
+    }
+.table-ba {
+    background-color: #FFF;
+    border-bottom-color: #000;
+    border-bottom-style: solid;
+    border-bottom-width: 0.15em;
+    color: #ff4901;
+    display: table-cell;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.1em;
+    margin-left: 0;
+    margin-top: 0.1em;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    text-align: inherit;
+    vertical-align: top;
+    word-spacing: 0.5em
+    }
+.table-h {
+    background-color: #FFF;
+    border-bottom-color: #000;
+    border-bottom-style: solid;
+    border-bottom-width: 0.15em;
+    border-top-color: #000;
+    border-top-style: solid;
+    border-top-width: 0.15em;
+    color: #ff4901;
+    display: table-cell;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.1em;
+    margin-left: 0;
+    margin-top: 0.1em;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    text-align: inherit;
+    vertical-align: top;
+    word-spacing: 0.5em
+    }
+.tocchapa {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.6em;
+    text-align: left;
+    word-spacing: 0.5em
+    }
+.tocchapb {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.6em;
+    text-align: left;
+    word-spacing: 0.5em
+    }
+.tocpart {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    font-weight: bold;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.5em;
+    text-align: left;
+    word-spacing: 0.5em
+    }
+.tocparta {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    font-weight: bold;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.2em;
+    text-align: left;
+    word-spacing: 0.5em
+    }
+.tocsec {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.1em;
+    text-align: left;
+    word-spacing: 0.5em
+    }
+.tocsec1 {
+    color: #ff4901;
+    display: block;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 0.1em;
+    margin-left: 5.5em;
+    margin-right: 0;
+    margin-top: 0.1em;
+    text-align: left;
+    text-indent: -1.8em;
+    word-spacing: 0.5em
+    }
+.topbot-d {
+    background-color: #FFF;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    color: #ff4901;
+    display: table;
+    font-family: "JansonTextLTStd";
+    letter-spacing: 0.15em;
+    line-height: 2;
+    margin-bottom: 1.5em;
+    margin-left: 0;
+    margin-top: 0.5em;
+    text-indent: 0;
+    word-spacing: 0.5em
+    }
+
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "TradeGothicLTStd";
+    src: url(OEBPS/fonts/TradeGothicLTStd.otf);
+    font-style: normal;
+    font-weight: normal
+    }
+@font-face {
+    font-family: "TradeGothicLTStd";
+    src: url(OEBPS/fonts/TradeGothicLTStd-Obl.otf);
+    font-style: italic;
+    font-weight: normal
+    }
+@font-face {
+    font-family: "TradeGothicLTStd";
+    src: url(OEBPS/fonts/TradeGothicLTStd-Bold.otf);
+    font-style: normal;
+    font-weight: bold
+    }
+@font-face {
+    font-family: "TradeGothicLTStd";
+    src: url(OEBPS/fonts/TradeGothicLTStd-BoldObl.otf);
+    font-style: italic;
+    font-weight: bold
+    }
+@font-face {
+    font-family: "JansonTextLTStd";
+    src: url(OEBPS/fonts/JansonTextLTStd-Bold.otf);
+    font-style: normal;
+    font-weight: bold
+    }
+@font-face {
+    font-family: "JansonTextLTStd";
+    src: url(OEBPS/fonts/JansonTextLTStd-BoldItalic.otf);
+    font-style: italic;
+    font-weight: bold
+    }
+@font-face {
+    font-family: "JansonTextLTStd";
+    src: url(OEBPS/fonts/JansonTextLTStd-Italic.otf);
+    font-style: italic;
+    font-weight: normal
+    }
+@font-face {
+    font-family: "JansonTextLTStd";
+    src: url(OEBPS/fonts/JansonTextLTStd-Roman.otf);
+    font-style: normal;
+    font-weight: normal
+    }
+@font-face {
+    font-family: "ArialUnicodeMS";
+    src: url(OEBPS/fonts/ARIALUNI.ttf);
+    font-style: normal;
+    font-weight: normal
+    }
+@font-face {
+    font-family: "UbuntuMono";
+    src: url(OEBPS/fonts/UbuntuMono-Regular.ttf);
+    font-style: normal;
+    font-weight: normal
+    }
+@font-face {
+    font-family: "UbuntuMono";
+    src: url(OEBPS/fonts/UbuntuMono-Bold.ttf);
+    font-style: normal;
+    font-weight: bold
+    }
+@font-face {
+    font-family: "UbuntuMono";
+    src: url(OEBPS/fonts/UbuntuMono-Italic.ttf);
+    font-style: italic;
+    font-weight: normal
+    }
+@font-face {
+    font-family: "UbuntuMono";
+    src: url(OEBPS/fonts/UbuntuMono-BoldItalic.ttf);
+    font-style: italic;
+    font-weight: bold
+    }
+
